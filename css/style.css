@@ -16,7 +16,7 @@ body {
         rgba(0, 0, 0, 0.8)
       )
       100% 100%,
-    url("./images/bg_1.jpg") no-repeat center;
+    url("../images/bg_1.jpg") no-repeat center;
   background-size: cover;
   font-family: "Poppins", sans-serif;
   overflow: hidden;
